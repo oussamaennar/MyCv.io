@@ -1,2 +1,0 @@
-# MyCv.io
-Cv
